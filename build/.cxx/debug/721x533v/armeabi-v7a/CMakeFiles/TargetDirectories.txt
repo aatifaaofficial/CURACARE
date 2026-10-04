@@ -1,0 +1,2 @@
+C:/MOBILE APP COURSE/CuraCare/build/.cxx/debug/721x533v/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/MOBILE APP COURSE/CuraCare/build/.cxx/debug/721x533v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
