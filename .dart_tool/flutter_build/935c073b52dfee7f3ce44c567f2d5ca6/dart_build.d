@@ -1,0 +1,1 @@
+ C:\\MOBILE\ APP\ COURSE\\CuraCare\\.dart_tool\\flutter_build\\935c073b52dfee7f3ce44c567f2d5ca6\\dart_build_result.json: 
